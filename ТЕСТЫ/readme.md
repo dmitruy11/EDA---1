@@ -19,3 +19,4 @@
 
 Что практикуем
 Учимся использовать статистические тесты
+[Диаметры пиццы различных производителей]: (https://raw.githubusercontent.com/harika-bonthu/Hypothesis-test-examples/main/pizzas.csv)
