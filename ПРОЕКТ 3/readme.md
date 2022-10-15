@@ -31,7 +31,7 @@ submission.csv - файл сабмишна в нужном формате
 
 базовое решение в качестве основы
 
-Ноутбук на Kaggle.com: https://www.kaggle.com/code/aleksejszudiins/project-3-eda-feature-engineering
+Ноутбук на Kaggle.com: https://www.kaggle.com/code/dmitruy11/project-3-booking-com
 
 Этапы работы над проектом
 
