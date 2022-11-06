@@ -53,5 +53,4 @@ submission.csv - файл сабмишна в нужном формате
 
 Leaderboard на Kaggle.com: https://www.kaggle.com/competitions/sf-booking/leaderboard
 
-Выводы
-....
+Выводы   :Получены предсказания рейтинга для тестового датасета, оформлен submission в соревнование на Kaggle, достигнута метрика качества MAPE=0.8778267
